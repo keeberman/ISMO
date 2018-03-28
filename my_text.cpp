@@ -1,5 +1,9 @@
 int main()
 {
-fdsafsa
+  int i;
+  for (i = 0; i < 23; i++)
+  {
+    //do nothing
+  }
   return 0;
 }
